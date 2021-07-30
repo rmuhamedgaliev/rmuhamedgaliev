@@ -15,7 +15,9 @@
 
 ---
 
-![rmuhamedgaliev's github stats](https://github-readme-stats.vercel.app/api?username=rmuhamedgaliev&count_private=true&show_icons=true&show_owner=true&theme=dark)
+<a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=rmuhamedgaliev&show_icons=true&count_private=true&include_all_commits=true" alt="rmuhamedgaliev" />
+</a>
 
 ---
 
