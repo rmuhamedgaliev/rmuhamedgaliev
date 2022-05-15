@@ -24,4 +24,4 @@
 ### 💻 Stats
 
 ![](https://komarev.com/ghpvc/?username=rmuhamedgaliev)
-
+![](./profile-3d-contrib/profile-south-season-animate.svg)
