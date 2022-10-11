@@ -8,6 +8,8 @@ My skills:
 - 🦾 problem solving
 - 🤯 consulting
 
+[![@rmuhamedgaliev's Holopin board](https://holopin.io/api/user/board?user=rmuhamedgaliev)](https://holopin.io/@rmuhamedgaliev)
+
 ### 📬 How to reach me
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rinat.muhamedgaliev@gmail.com)
