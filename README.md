@@ -1,5 +1,4 @@
-![](./header.png)
-
+![img.gif](img.gif)
 I'm software engineer at Yandex. My hobbies is mentoring, open source projects and study. I like use JVM stack in development. I can work with Java, Python, JS, Swift and other languages.
 
 My skills:
@@ -19,6 +18,3 @@ My skills:
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rmuhamedgaliev/)
 [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/rmuhamedgaliev)
 
-### 💻 Stats
-
-![](https://komarev.com/ghpvc/?username=rmuhamedgaliev)
