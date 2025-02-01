@@ -1,7 +1,7 @@
 ![img.gif](img.gif)
 I'm software engineer at Yandex. My hobbies is mentoring, open source projects and study. I like use JVM stack in development. I can work with Java, Python, JS, Swift and other languages.
 
-![](./profile-3d-contrib/profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 My skills:
 
